@@ -1,0 +1,7 @@
+*.bak
+*.ximp
+.FileInfoCache
+*.blend1
+desktop.ini
+.~
+*.sds
